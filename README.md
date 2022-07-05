@@ -1,5 +1,5 @@
 <h1> 𝐇𝐢! 𝐈'𝐦 Amarnath. <img src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/Hi.gif" width="25"></h1>
-<img align="right" width="50%" src="https://github.com/LeonardoYz/LeonardoYz/blob/main/assets/responsive-design-image.gif">
+
 
 
 

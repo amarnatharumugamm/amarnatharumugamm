@@ -31,7 +31,7 @@
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
 -  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
--  📝 &nbsp; Checkout my [Resume](https://github.com/MehedilslamRipon).
+-  📝 &nbsp; Checkout my [Resume](https://github.com/).
 #
 
 <details open="">
@@ -42,7 +42,7 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/LeonardoYz" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=LeonardoYz&show_icons=true&theme=react" alt="LeonardoYz's Stats" />
     <img width="335em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoYz&layout=compact&theme=react" alt="Most Used Languages" />
   </a>

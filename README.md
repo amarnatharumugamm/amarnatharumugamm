@@ -20,7 +20,16 @@
 
 <br/>
 <br/>
+<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif" />
 
+-  💻 &nbsp; I love exploring new tech stacks and building cool stuff.
+-  📰 &nbsp; Reading tech blogs whenever possible.
+-  🍕 &nbsp; Travelling, meetups & tech events.
+-  🚀 &nbsp; I’m currently learning Full Stack Web Development.
+-  :computer: &nbsp; Most written code line `console.log("hello world");`
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
+-  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
+-  📝 &nbsp; Checkout my [Resume](https://github.com/MehedilslamRipon).
 #
 
 <details open="">

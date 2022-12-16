@@ -29,7 +29,7 @@
 -  🍕 &nbsp; Travelling, meetups & tech events.
 -  🚀 &nbsp; I’m currently learning Full Stack Web Development.
 -  :computer: &nbsp; Most written code line `console.log("hello world");`
--  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MehedilslamRipon).
+-  👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/amarnatharumugamm).
 -  👾 &nbsp; Fun Fact: Equal is Not Always Equal in Javascript! 😹
 -  📝 &nbsp; Checkout my [Resume](https://github.com/).
 #
@@ -63,7 +63,7 @@
     <a href="https://www.linkedin.com/in/amarnath-arumugam-355767170/">
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
-    <a href="mailto:davids.dvm@gmail.com">
+    <a href="mailto:amarnatharumugam.dev@gmail.com">
       <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
     </a>
   </p>
